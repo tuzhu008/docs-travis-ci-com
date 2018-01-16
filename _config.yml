@@ -1,7 +1,7 @@
-title: "Travis CI Documentation"
+title: "Travis CI 中文文档"
 email: "support@travis-ci.com"
-url: "https://docs.travis-ci.com"
-docs_github: "https://github.com/travis-ci/docs-travis-ci-com/"
+url: "https://docs.travis-ci.bestajax.com"
+docs_github: "https://github.com/tuzhu008/docs-travis-ci-com_cn/"
 exclude: [bin, CNAME, Gemfile, Gemfile.lock, README.md, slate, vendor, '*.erb']
 markdown: kramdown
 permalink: :/title/
